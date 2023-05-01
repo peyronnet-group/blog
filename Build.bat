@@ -1,1 +1,1 @@
-hugo --destination /docs
+hugo --destination /docs --minify

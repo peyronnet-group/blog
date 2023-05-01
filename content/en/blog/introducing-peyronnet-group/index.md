@@ -5,6 +5,8 @@ date: 2023-05-01T09:18:57+02:00
 description: "Learn more about the creation of The Peyronnet Group."
 tags: ["information"]
 thumbnail: /blog/introducing-peyronnet-group/banner.png
+images:
+  - /blog/introducing-peyronnet-group/banner.png
 ---
 
 Hello everyone, we are the Peyronnet Group - a newly formed organization that brings together two innovative companies in the tech industry: Léo Corporation and Devyus. We are excited to introduce ourselves to you and share our vision for the future.
