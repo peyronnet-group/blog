@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Blog | Peyronnet Group</title>
+    <link>https://blog.peyronnet.group/tags/</link>
+    <description>Recent content in Tags on Blog | Peyronnet Group</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Mon, 01 May 2023 09:18:57 +0200</lastBuildDate><atom:link href="https://blog.peyronnet.group/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>information</title>
+      <link>https://blog.peyronnet.group/tags/information/</link>
+      <pubDate>Mon, 01 May 2023 09:18:57 +0200</pubDate>
+      
+      <guid>https://blog.peyronnet.group/tags/information/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

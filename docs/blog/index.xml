@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blog on Blog | Peyronnet Group</title>
+    <link>https://blog.peyronnet.group/blog/</link>
+    <description>Recent content in Blog on Blog | Peyronnet Group</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Mon, 01 May 2023 09:18:57 +0200</lastBuildDate><atom:link href="https://blog.peyronnet.group/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Introducing The Peyronnet Group</title>
+      <link>https://blog.peyronnet.group/blog/introducing-peyronnet-group/</link>
+      <pubDate>Mon, 01 May 2023 09:18:57 +0200</pubDate>
+      
+      <guid>https://blog.peyronnet.group/blog/introducing-peyronnet-group/</guid>
+      <description>Hello everyone, we are the Peyronnet Group - a newly formed organization that brings together two innovative companies in the tech industry: Léo Corporation and Devyus. We are excited to introduce ourselves to you and share our vision for the future.
+Léo Corporation, founded in 2017 by Léo Peyronnet, specializes in developing mobile applications and software solutions. Our focus is on creating innovative and user-friendly applications that make life easier and more enjoyable for our users.</description>
+    </item>
+    
+  </channel>
+</rss>

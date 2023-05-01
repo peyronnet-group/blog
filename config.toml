@@ -1,4 +1,4 @@
-baseurl = "https://blist.vercel.app"
+baseurl = "https://blog.peyronnet.group"
 metaDataFormat = "yaml"
 title = "Blog | Peyronnet Group"
 theme = "blist"
