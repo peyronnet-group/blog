@@ -12,6 +12,8 @@
       "footer",
       "h1",
       "h2",
+      "h3",
+      "h4",
       "h5",
       "head",
       "header",
@@ -193,12 +195,17 @@
     "ids": [
       "TableOfContents",
       "a",
+      "changelog",
       "conclusion",
       "devyus",
       "introduction",
+      "links",
       "logoimg",
       "logoimgdark",
-      "léo-corporation"
+      "léo-corporation",
+      "new",
+      "nuget-packages",
+      "peyrsharpcore"
     ]
   }
 }
