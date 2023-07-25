@@ -26,6 +26,7 @@
       "link",
       "main",
       "meta",
+      "ol",
       "p",
       "path",
       "polyline",
@@ -203,11 +204,13 @@
       "logoimg",
       "logoimgdark",
       "léo-corporation",
+      "misconceptions-and-clarifications",
       "new",
       "new-1",
       "nuget-packages",
       "peyrsharpcore",
       "peyrsharpenv",
+      "trusted-sources-for-downloading-peyronnet-group-apps",
       "updated"
     ]
   }
