@@ -3,7 +3,7 @@ author: "Léo Peyronnet"
 title: "Peyronnet Group's Subsidiary, Léo Corporation, Sets New Records with a Productive July"
 date: 2023-07-26T16:29:49+02:00
 description: "Léo Corporation has had an exceptionally productive month in July."
-tags: ["peyrsharp"]
+tags: ["report", "information"]
 thumbnail: /blog/productive-month-leo-corporation/banner.png
 images:
   - /blog/productive-month-leo-corporation/banner.png
