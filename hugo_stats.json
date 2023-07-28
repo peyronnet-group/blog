@@ -6,6 +6,7 @@
       "body",
       "button",
       "circle",
+      "code",
       "defs",
       "details",
       "div",
@@ -204,14 +205,19 @@
       "z-10"
     ],
     "ids": [
+      "-xvalid---first-release-",
       "TableOfContents",
       "a",
       "a-productive-month-unlike-any-other",
       "changelog",
       "conclusion",
+      "contribute",
       "daybar-time-tracking-made-simple",
       "devyus",
       "feature-updates-for-gavilya-colorpicker-max-internettest-pro-and-passliss",
+      "features",
+      "feedback",
+      "getting-started",
       "hotfixes-for-enhanced-stability",
       "introduction",
       "links",
@@ -222,6 +228,7 @@
       "new",
       "new-1",
       "new-applications-and-products",
+      "nuget",
       "nuget-packages",
       "permatop-enhancing-windows-productivity",
       "peyrsharpcore",
@@ -229,7 +236,8 @@
       "qrix-empowering-code-creation",
       "trusted-sources-for-downloading-peyronnet-group-apps",
       "updated",
-      "updates-to-existing-applications"
+      "updates-to-existing-applications",
+      "what-is-xvalid"
     ]
   }
 }
