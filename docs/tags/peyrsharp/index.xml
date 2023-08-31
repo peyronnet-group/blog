@@ -1,4 +1,14 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>peyrsharp on Blog | Peyronnet Group</title><link>https://blog.peyronnet.group/tags/peyrsharp/</link><description>Recent content in peyrsharp on Blog | Peyronnet Group</description><generator>Hugo -- gohugo.io</generator><lastBuildDate>Sat, 29 Jul 2023 11:10:31 +0200</lastBuildDate><atom:link href="https://blog.peyronnet.group/tags/peyrsharp/index.xml" rel="self" type="application/rss+xml"/><item><title>PeyrSharp: Version 1.8.0.2308 is now available</title><link>https://blog.peyronnet.group/blog/peyrsharp-version-1802308/</link><pubDate>Sat, 29 Jul 2023 11:10:31 +0200</pubDate><guid>https://blog.peyronnet.group/blog/peyrsharp-version-1802308/</guid><description>Version 1.8.0.2308 of PeyrSharp is now available, let&amp;rsquo;s see what&amp;rsquo;s new.
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>peyrsharp on Blog | Peyronnet Group</title><link>https://blog.peyronnet.group/tags/peyrsharp/</link><description>Recent content in peyrsharp on Blog | Peyronnet Group</description><generator>Hugo -- gohugo.io</generator><lastBuildDate>Thu, 31 Aug 2023 11:14:29 +0200</lastBuildDate><atom:link href="https://blog.peyronnet.group/tags/peyrsharp/index.xml" rel="self" type="application/rss+xml"/><item><title>PeyrSharp: Version 1.9.0.2309 is now available</title><link>https://blog.peyronnet.group/blog/peyrsharp-version-1902309/</link><pubDate>Thu, 31 Aug 2023 11:14:29 +0200</pubDate><guid>https://blog.peyronnet.group/blog/peyrsharp-version-1902309/</guid><description>Version 1.9.0.2309 of PeyrSharp is now available, let&amp;rsquo;s see what&amp;rsquo;s new.
+Changelog PeyrSharp.Core PeyrSharp.Env New Added LaunchUWPApp(UwpApp) (#137) Added CurrentTheme property (#138) PeyrSharp.Extensions New Added ToLowerAt(s) (#136) Added ToLowerAt(str, r) (#136) PeyrSharp.UiHelpers New Added WindowInfo class (#139) Added the possibility to get a list of opened windows (#139) NuGet Packages PeyrSharp
+PeyrSharp.Core
+PeyrSharp.Enums
+PeyrSharp.Env
+PeyrSharp.Exceptions
+PeyrSharp.Extensions
+PeyrSharp.UiHelpers
+Links Documentation
+GitHub
+GitHub Packages</description></item><item><title>PeyrSharp: Version 1.8.0.2308 is now available</title><link>https://blog.peyronnet.group/blog/peyrsharp-version-1802308/</link><pubDate>Sat, 29 Jul 2023 11:10:31 +0200</pubDate><guid>https://blog.peyronnet.group/blog/peyrsharp-version-1802308/</guid><description>Version 1.8.0.2308 of PeyrSharp is now available, let&amp;rsquo;s see what&amp;rsquo;s new.
 Changelog PeyrSharp.Core New Added Save() method in XmlHelper (#126) Added Load() method in XmlHelper (#127) Added Save() method in JsonHelper (#128) Added Load() method in JsonHelper (#129) NuGet Packages PeyrSharp
 PeyrSharp.Core
 PeyrSharp.Enums
