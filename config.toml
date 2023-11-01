@@ -27,6 +27,11 @@ DefaultContentLanguageInSubdir = true
         url = "tags"
         weight = 3
 
+    [[languages.en.menu.more]]
+        name = "Tags"
+        url = "blog"
+        weight = 3
+
 [params]
   # Enable the darkmode ²ggle in header
   darkModeToggle = true
