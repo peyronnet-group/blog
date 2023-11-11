@@ -3,7 +3,7 @@ author: "Léo Peyronnet"
 title: "Synapsy Write v1.2.0 Changelog"
 date: 2023-10-14
 description: "This version adds a new statistics section and new features to the view page."
-tags: ["changelog", "leo corporation", "synapsy"]
+tags: ["changelog", "synapsy"]
 thumbnail: /blog/synsapsy-write-version-110/banner.png
 images:
   - /blog/synsapsy-write-version-110/banner.png
