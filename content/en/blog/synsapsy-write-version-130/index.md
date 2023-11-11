@@ -3,7 +3,7 @@ author: "Léo Peyronnet"
 title: "Synapsy Write v1.3.0 Changelog"
 date: 2023-10-23
 description: "This version brings new UI improvements."
-tags: ["changelog", "leo corporation", "synapsy"]
+tags: ["changelog", "synapsy"]
 thumbnail: /blog/synsapsy-write-version-130/banner.png
 images:
   - /blog/synsapsy-write-version-130/banner.png
@@ -11,7 +11,7 @@ images:
 
 We are excited to announce that Synapsy Write v1.3 is now available. This version brings UI improvements and fixes.
 
-_Note: This changelog also includes changes made in hotfixes (1.3.1, 1.3.2)_
+_Note: This changelog also includes changes made in hotfixes (1.3.1, 1.3.2 and 1.3.3)_
 
 ## Changelog
 
@@ -23,6 +23,8 @@ _Note: This changelog also includes changes made in hotfixes (1.3.1, 1.3.2)_
 - Added locales for View page
 - Improved layout
 - Added scale effect
+- Added formats selector locales
+- Added new formats selector
 
 ### Fixed
 
@@ -35,6 +37,8 @@ _Note: This changelog also includes changes made in hotfixes (1.3.1, 1.3.2)_
 - Improved landing page
 - Updated footer
 - Updated next config
+- Updated model list
+- Improved outline prompts
 - _Updated dependencies_
 
 ## Launch
