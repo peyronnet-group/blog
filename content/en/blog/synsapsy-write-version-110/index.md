@@ -1,6 +1,6 @@
 ---
 author: "Léo Peyronnet"
-title: "Synapsy Write v1.2.0 Changelog"
+title: "Synapsy Write v1.1.0 Changelog"
 date: 2023-10-14
 description: "This version adds a new statistics section and new features to the view page."
 tags: ["changelog", "synapsy"]
