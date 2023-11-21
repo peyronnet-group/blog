@@ -3,7 +3,7 @@ author: "Léo Peyronnet"
 title: "Introducing Synapsy Genidoc"
 date: 2023-11-21T17:49:22+01:00
 description: "Introducing Synapsy Genidoc, a new way to generate markdown documentation for your projects."
-tags: ["information"]
+tags: ["information", "synapsy"]
 thumbnail: /blog/introducing-synapsy-genidoc/banner.png
 images:
   - /blog/introducing-synapsy-genidoc/banner.png
