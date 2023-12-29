@@ -4,9 +4,9 @@ title: "Synapsy Write v1.9.0 Changelog"
 date: 2023-12-17
 description: "We added the new text analysis format."
 tags: ["changelog", "synapsy"]
-thumbnail: /blog/synsapsy-write-version-180/banner.png
+thumbnail: /blog/synsapsy-write-version-190/banner.png
 images:
-  - /blog/synsapsy-write-version-180/banner.png
+  - /blog/synsapsy-write-version-190/banner.png
 ---
 
 We are happy to introduce version 1.9.0 of Synapsy Write which brings the new text analysis (Philosophy) format. You can now ask a generative AI model to analyse an extract of a philosophic text to provide a clear understanding of it.
