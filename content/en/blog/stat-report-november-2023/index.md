@@ -2,7 +2,7 @@
 author: "Léo Peyronnet"
 title: "Stat report for Léo Corporation and Devyus in November 2023"
 date: 2023-12-01T16:43:06+01:00
-description: "Unveiling the October 2023 Download Trends: Léo Corporation's App and Devyus products Evolution"
+description: "Unveiling the November 2023 Download Trends: Léo Corporation's App and Devyus products Evolution"
 tags: ["stats", "leo corporation", "devyus"]
 thumbnail: /blog/stat-report-november-2023/banner.png
 images:
