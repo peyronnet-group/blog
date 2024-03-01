@@ -1,7 +1,7 @@
 ---
 author: "Léo Peyronnet"
 title: "Synapsy Write v2.3.0 Changelog"
-date: 2024-02-01
+date: 2024-02-28
 description: "We added the new editor and a new generation format."
 tags: ["changelog", "synapsy"]
 thumbnail: /blog/synsapsy-write-version-230/banner.png
