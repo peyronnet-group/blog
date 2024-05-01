@@ -228,6 +228,7 @@
       "colorpicker-max-5---building-interest",
       "colorpicker-max-5---rising-interest",
       "colorpicker-max-5---surging-ahead",
+      "colorpicker-max-5-substantial-rise",
       "colorpicker-max-5-surpassing-expectations",
       "conclusion",
       "conclusion-1",
@@ -241,6 +242,7 @@
       "datalya---maintaining-momentum",
       "datalya---navigating-new-heights",
       "datalya-and-colorpicker-max-5",
+      "datalya-moderate-growth",
       "datalya-steady-growth-trajectory",
       "daybar---steady-incline",
       "daybar-and-permatop",
@@ -248,6 +250,7 @@
       "daybar-and-permatop---niche-appeal-continues",
       "daybar-and-permatop---niche-appeal-prevails",
       "daybar-and-permatop-consistent-performance",
+      "daybar-and-permatop-incremental-gains",
       "daybar-time-tracking-made-simple",
       "december-app-performance-analysis",
       "devyus",
@@ -264,6 +267,7 @@
       "gavilya---sustained-momentum",
       "gavilya-and-internettest-pro-7",
       "gavilya-maintaining-momentum",
+      "gavilya-steady-expansion",
       "generic-essay",
       "getting-started",
       "hotfixes-for-enhanced-stability",
@@ -277,6 +281,7 @@
       "internettest-pro-7---steadfast-growth",
       "internettest-pro-8---robust-growth",
       "internettest-pro-8-a-substantial-surge",
+      "internettest-pro-8-remarkable-surge",
       "introduction",
       "introduction-1",
       "join-the-synapsy-write-community",
@@ -304,6 +309,7 @@
       "other-additions",
       "overall-growth",
       "overall-growth-and-reflection",
+      "overall-impact",
       "overall-reflection-on-2023",
       "package-performance-analysis",
       "permatop---maintaining-momentum",
@@ -312,6 +318,7 @@
       "peyrsharp---consistent-growth",
       "peyrsharp---continuing-the-climb",
       "peyrsharp-and-synethia",
+      "peyrsharp-consistent-growth",
       "peyrsharpcore",
       "peyrsharpenv",
       "peyrsharpextensions",
@@ -326,6 +333,7 @@
       "synethia",
       "synethia---a-steady-rise",
       "synethia---building-momentum",
+      "synethia-substantial-increase",
       "the-collective-impact",
       "the-newcomers-daybar-and-permatop",
       "tracking-the-growth-devyus-nuget-packages-in-february-2024",
@@ -344,7 +352,8 @@
       "xvalid",
       "xvalid---a-marked-surge",
       "xvalid---a-noteworthy-surge",
-      "xvalid-a-newcomers-triumph"
+      "xvalid-a-newcomers-triumph",
+      "xvalid-continued-expansion"
     ]
   }
 }
