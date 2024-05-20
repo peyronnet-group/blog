@@ -4,9 +4,9 @@ title: "Synapsy Write v2.5.0 Changelog"
 date: 2024-05-20
 description: "Introducing Synapsy Assistant, GPT-4o support and more."
 tags: ["changelog", "synapsy"]
-thumbnail: /blog/synsapsy-write-version-240/banner.png
+thumbnail: /blog/synsapsy-write-version-250/banner.png
 images:
-  - /blog/synsapsy-write-version-240/banner.png
+  - /blog/synsapsy-write-version-250/banner.png
 ---
 
 A new version of Synapsy Write is now available and it is the version 2.5.0. This version adds several features, notably the new Synapsy Assistant Chat.
