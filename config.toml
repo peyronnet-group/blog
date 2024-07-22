@@ -54,7 +54,7 @@ DefaultContentLanguageInSubdir = true
   ]
 
   # Custom copyright - optional
-  copyright = "Copyright © 2023 - Peyronnet Group"
+  copyright = "Copyright © 2024 - Peyronnet Group"
   favicon = "/favicon.svg"
 
   # Color for the intro details and social links block, not applicable for dark mode
