@@ -4,10 +4,10 @@ title: "Introducing Synapsy Write v3.0"
 date: 2024-07-22
 description: "We are proud to introduce a brand new design and a new set of features for Synapsy Write."
 tags: ["changelog", "synapsy"]
-thumbnail: /blog/synsapsy-write-version-300/banner.png
+thumbnail: /blog/synapsy-write-version-300/banner.png
 aliases: /blog/synsapsy-write-version-300
 images:
-  - /blog/synsapsy-write-version-300/banner.png
+  - /blog/synapsy-write-version-300/banner.png
 ---
 
 The world of AI-powered document and text generation is evolving, and Synapsy Write v3.0.0 is leading the charge. With this latest release, we have completely reworked the user interface and rewritten the code to handle complex document generation more effectively. This update is packed with new features, improvements, and fixes designed to enhance user experience and productivity. One of the standout features is the new Templates system, which allows users to automate the creation of complex documents through customizable models. Let's dive into the details.
