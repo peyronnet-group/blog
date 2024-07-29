@@ -5,7 +5,7 @@ date: 2023-10-23
 description: "This version brings new UI improvements."
 tags: ["changelog", "synapsy"]
 thumbnail: /blog/synapsy-write-version-130/banner.png
-alias: /blog/synsapsy-write-version-130
+aliases: /blog/synsapsy-write-version-130
 images:
   - /blog/synapsy-write-version-130/banner.png
 ---

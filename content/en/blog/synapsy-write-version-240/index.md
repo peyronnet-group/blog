@@ -5,7 +5,7 @@ date: 2024-03-24
 description: "We added new formats and a new edition mode."
 tags: ["changelog", "synapsy"]
 thumbnail: /blog/synapsy-write-version-240/banner.png
-alias: /blog/synsapsy-write-version-240
+aliases: /blog/synsapsy-write-version-240
 images:
   - /blog/synapsy-write-version-240/banner.png
 ---

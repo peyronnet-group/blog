@@ -5,7 +5,7 @@ date: 2024-06-08
 description: "We added several new features and new formats."
 tags: ["changelog", "synapsy"]
 thumbnail: /blog/synapsy-write-version-270/banner.png
-alias: /blog/synsapsy-write-version-270
+aliases: /blog/synsapsy-write-version-270
 images:
   - /blog/synapsy-write-version-270/banner.png
 ---

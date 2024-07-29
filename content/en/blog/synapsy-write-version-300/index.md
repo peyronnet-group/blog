@@ -5,7 +5,7 @@ date: 2024-07-22
 description: "We are proud to introduce a brand new design and a new set of features for Synapsy Write."
 tags: ["changelog", "synapsy"]
 thumbnail: /blog/synsapsy-write-version-300/banner.png
-alias: /blog/synsapsy-write-version-300
+aliases: /blog/synsapsy-write-version-300
 images:
   - /blog/synsapsy-write-version-300/banner.png
 ---

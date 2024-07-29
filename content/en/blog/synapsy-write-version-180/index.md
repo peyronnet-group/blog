@@ -5,7 +5,7 @@ date: 2023-11-25
 description: "We added the possibility to generate tables."
 tags: ["changelog", "synapsy"]
 thumbnail: /blog/synapsy-write-version-180/banner.png
-alias: /blog/synsapsy-write-version-180
+aliases: /blog/synsapsy-write-version-180
 images:
   - /blog/synapsy-write-version-180/banner.png
 ---

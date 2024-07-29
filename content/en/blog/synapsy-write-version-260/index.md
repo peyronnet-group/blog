@@ -5,7 +5,7 @@ date: 2024-05-25
 description: "Introducing new Paragraph mode, Conversations and more."
 tags: ["changelog", "synapsy"]
 thumbnail: /blog/synapsy-write-version-260/banner.png
-alias: /blog/synsapsy-write-version-260
+aliases: /blog/synsapsy-write-version-260
 images:
   - /blog/synapsy-write-version-260/banner.png
 ---

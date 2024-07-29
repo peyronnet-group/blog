@@ -5,7 +5,7 @@ date: 2023-11-23
 description: "We added the possibility to delete a generation from history and more."
 tags: ["changelog", "synapsy"]
 thumbnail: /blog/synapsy-write-version-170/banner.png
-alias: /blog/synsapsy-write-version-170
+aliases: /blog/synsapsy-write-version-170
 images:
   - /blog/synapsy-write-version-170/banner.png
 ---

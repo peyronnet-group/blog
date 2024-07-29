@@ -5,7 +5,7 @@ date: 2024-01-28
 description: "Using Synapsy will now require a Peyronnet Account."
 tags: ["changelog", "synapsy"]
 thumbnail: /blog/synapsy-write-version-210/banner.png
-alias: /blog/synsapsy-write-version-210
+aliases: /blog/synsapsy-write-version-210
 images:
   - /blog/synapsy-write-version-210/banner.png
 ---

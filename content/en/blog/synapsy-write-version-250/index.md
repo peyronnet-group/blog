@@ -5,7 +5,7 @@ date: 2024-05-20
 description: "Introducing Synapsy Assistant, GPT-4o support and more."
 tags: ["changelog", "synapsy"]
 thumbnail: /blog/synapsy-write-version-250/banner.png
-alias: /blog/synsapsy-write-version-250
+aliases: /blog/synsapsy-write-version-250
 images:
   - /blog/synapsy-write-version-250/banner.png
 ---

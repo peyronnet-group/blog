@@ -5,7 +5,7 @@ date: 2024-02-01
 description: "Introducing Synapsy Write Premium subscription plan."
 tags: ["changelog", "synapsy"]
 thumbnail: /blog/synapsy-write-version-220/banner.png
-alias: /blog/synsapsy-write-version-220
+aliases: /blog/synsapsy-write-version-220
 images:
   - /blog/synapsy-write-version-220/banner.png
 ---

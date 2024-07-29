@@ -5,7 +5,7 @@ date: 2023-12-17
 description: "We added the new text analysis format."
 tags: ["changelog", "synapsy"]
 thumbnail: /blog/synapsy-write-version-190/banner.png
-alias: /blog/synsapsy-write-version-190
+aliases: /blog/synsapsy-write-version-190
 images:
   - /blog/synapsy-write-version-190/banner.png
 ---

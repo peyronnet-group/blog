@@ -5,7 +5,7 @@ date: 2023-11-11
 description: "This version brings streamed responses."
 tags: ["changelog", "synapsy"]
 thumbnail: /blog/synapsy-write-version-150/banner.png
-alias: /blog/synsapsy-write-version-150
+aliases: /blog/synsapsy-write-version-150
 images:
   - /blog/synapsy-write-version-150/banner.png
 ---

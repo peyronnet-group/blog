@@ -5,7 +5,7 @@ date: 2023-10-18
 description: "This version brings fixes and new features."
 tags: ["changelog", "synapsy"]
 thumbnail: /blog/synapsy-write-version-120/banner.png
-alias: /blog/synsapsy-write-version-120
+aliases: /blog/synsapsy-write-version-120
 images:
   - /blog/synapsy-write-version-120/banner.png
 ---

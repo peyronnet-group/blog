@@ -5,7 +5,7 @@ date: 2023-11-09
 description: "This version brings advanced options."
 tags: ["changelog", "synapsy"]
 thumbnail: /blog/synapsy-write-version-140/banner.png
-alias: /blog/synsapsy-write-version-140
+aliases: /blog/synsapsy-write-version-140
 images:
   - /blog/synapsy-write-version-140/banner.png
 ---

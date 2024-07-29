@@ -5,7 +5,7 @@ date: 2023-10-14
 description: "This version adds a new statistics section and new features to the view page."
 tags: ["changelog", "synapsy"]
 thumbnail: /blog/synapsy-write-version-110/banner.png
-alias: /blog/synsapsy-write-version-110
+aliases: /blog/synsapsy-write-version-110
 images:
   - /blog/synapsy-write-version-110/banner.png
 ---

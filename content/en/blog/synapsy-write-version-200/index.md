@@ -5,7 +5,7 @@ date: 2024-01-20
 description: "This major version brings a new user interface, new features and several improvements."
 tags: ["changelog", "synapsy"]
 thumbnail: /blog/synapsy-write-version-200/banner.png
-alias: /blog/synsapsy-write-version-200
+aliases: /blog/synsapsy-write-version-200
 images:
   - /blog/synapsy-write-version-200/banner.png
 ---

@@ -5,7 +5,7 @@ date: 2023-11-14
 description: "We added the new variable feature."
 tags: ["changelog", "synapsy"]
 thumbnail: /blog/synapsy-write-version-160/banner.png
-alias: /blog/synsapsy-write-version-160
+aliases: /blog/synsapsy-write-version-160
 images:
   - /blog/synapsy-write-version-160/banner.png
 ---

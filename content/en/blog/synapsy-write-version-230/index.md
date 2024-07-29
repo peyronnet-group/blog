@@ -5,7 +5,7 @@ date: 2024-02-28
 description: "We added the new editor and a new generation format."
 tags: ["changelog", "synapsy"]
 thumbnail: /blog/synapsy-write-version-230/banner.png
-alias: /blog/synsapsy-write-version-230
+aliases: /blog/synsapsy-write-version-230
 images:
   - /blog/synapsy-write-version-230/banner.png
 ---
