@@ -1,4 +1,4 @@
 ---
-author: Peyronnet Group
+author: GRP
 title: Blog
 ---

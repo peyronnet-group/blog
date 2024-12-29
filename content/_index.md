@@ -1,5 +1,5 @@
 ---
-author: Peyronnet Group
-title: Blog of Peyronnet Group
+author: GRP
+title: Blog of GRP
 date: 2023-04-15
 ---

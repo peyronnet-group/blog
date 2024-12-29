@@ -1,6 +1,6 @@
 baseurl = "https://blog.peyronnet.group"
 metaDataFormat = "yaml"
-title = "Blog | Peyronnet Group"
+title = "Blog | GRP"
 theme = "blist"
 
 DefaultContentLanguage = "en"
@@ -12,7 +12,7 @@ DefaultContentLanguageInSubdir = false
     languageName = "English"
     [languages.en.params]
       introTitle = "Where the future unfolds."
-      introSubtitle = "Welcome to the official blog of The Peyronnet Group."
+      introSubtitle = "Welcome to the official blog of GRP."
       introPhoto = "/favicon.svg"
       logo = "/PeyrLight.svg"
       logodark = "/PeyrDark.svg"
@@ -54,7 +54,7 @@ DefaultContentLanguageInSubdir = false
   ]
 
   # Custom copyright - optional
-  copyright = "Copyright © 2024 - Peyronnet Group"
+  copyright = "Copyright © 2024 - GRP"
   favicon = "/favicon.svg"
 
   # Color for the intro details and social links block, not applicable for dark mode
