@@ -9,11 +9,11 @@ images:
     - /blog/introducing-new-identity/banner.png
 ---
 
-At GRP, we've always strived to evolve and innovate, not just in the services we provide but also in how we represent ourselves. Today, we are thrilled to unveil our brand-new logo and refreshed visual identity!
+At GRP - formerly Peyronnet Group, we've always strived to evolve and innovate, not just in the services we provide but also in how we represent ourselves. Today, we are thrilled to unveil our brand-new logo and refreshed visual identity!
 
 ### Why the Change?
 
-As our company has grown and expanded its horizons, we realized that our visual identity needed to reflect who we are today and the direction we're heading. Our previous logo served us well, but it was time for something that embodies our vision for the future—a look that's modern, bold, and meaningful.
+As our company has grown and expanded its horizons, we realized that our visual identity needed to reflect who we are today and the direction we're heading. Our previous logo served us well, but it was time for something that embodies our vision for the future—a look that's modern, bold, and meaningful. We also decided to simplify our name to GRP, a more concise and memorable representation of our brand.
 
 ### The Story Behind the New Logo
 
